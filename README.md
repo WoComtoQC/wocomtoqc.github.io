@@ -1,10 +1,8 @@
-# qla-ml-ds-activities
+# In2Py website.
 
 
 
-This is the repository for the code for the web pages of our qla-ml-ds- research activities on
-machine learning, data science, artificial intelligence, quantum Information and applications. Please visit
-[**QLA**](https://quantumleapafrica.org/) for more information.
+
 
 
 
