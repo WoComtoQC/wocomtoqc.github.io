@@ -1,0 +1,26 @@
+title: Introduction à la programmation avec Python (In2Py)
+description: ""
+
+
+navigation:
+  Accueil: "/"
+  Synopsis: "/synopsis"
+  Organisation: "/organisation"
+  Ressources: "/ressources"
+  Classes Antérieures : "/classes-anterieures"
+  Opportunités: "/opportunities"
+  Instructeur: "/instructeur"
+  
+  
+
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
