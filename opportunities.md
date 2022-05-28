@@ -15,3 +15,6 @@ de l'algorithmique quand on veut voir des applications de certaines structures t
   3. Je suis ouvert à des échanges sur des projets potentiels qui déboucheraient sur la mise en place de start-ups.
 
 
+Par ailleurs, je poste régulièrement des opportunités de bourses d'études et de travail sur ce [**canal Telegram**](https://t.me/bourse_et_opportunites_d_etudes). Vous pouvez vous y abonner.
+
+
