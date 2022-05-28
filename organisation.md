@@ -119,7 +119,7 @@ Par ordre décroissant de priorité:
  
 Les ressources données ci-dessus peuvent être de très bonnes ressources et fournissent certainement de la docmentation nécessaire dans votre investigation sur les thèmes ci-dessus proposés. 
  
- Vous pouvez choisir votre thème d'exposé en allant [ici](https://docs.google.com/spreadsheets/d/1eJlZ3yMKkz6Wt6HOBvChdo5KOlqBjzLyPKr_tlDvndI/edit?usp=sharing).
+ Vous pouvez choisir votre thème d'exposé en allant [**ici**](https://docs.google.com/spreadsheets/d/1GS8a5dYb9OEJZBK1pQKEisIN2PkdXZYxkucMa15NNnA/edit#gid=0).
  
  
 
