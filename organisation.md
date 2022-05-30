@@ -38,6 +38,8 @@ Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de
 Programme : Introduction et prise en main du Jupyter. 
 
 Notions: [00. Introduction à python](https://github.com/gabayae/colab-notebooks-in2py/blob/main/00_Introduction_%C3%A0_python.ipynb), [01. Variables et affectations](https://github.com/gabayae/colab-notebooks-in2py/blob/main/01_Variables_et_affectations.ipynb), [02. Chaînes de caractères](https://github.com/gabayae/colab-notebooks-in2py/blob/main/02_Cha%C3%AEnes_de_caract%C3%A8res.ipynb).
+
+Travaux Pratiques: [TP1](https://github.com/gabayae/colab-notebooks-in2py/blob/main/In2Py_TP_01.ipynb); [TP2](https://github.com/gabayae/colab-notebooks-in2py/blob/main/In2Py_TP_02.ipynb)
  
  En complément du chapitre de présentation des bases du langage Python, vous pourrez également consulter avec profit les [cinq premières sections du tutoriel officiel de Python](https://docs.python.org/fr/3/tutorial/).
 
@@ -50,7 +52,7 @@ Programme :  listes, dictionnaires, tuples et sets, boucles et comparaisons, tes
 
 Notions: [03. Objets itérables ou conteneurs](https://github.com/gabayae/colab-notebooks-in2py/blob/main/03_Objets_it%C3%A9rables_ou_conteneurs.ipynb), [04. Contrôle du flux d'instructions](https://github.com/gabayae/colab-notebooks-in2py/blob/main/04_Contr%C3%B4le_du_flux_d_instructions.ipynb).
 
-
+Travaux Pratiques: [TP3](https://github.com/gabayae/colab-notebooks-in2py/blob/main/In2Py_TP_03.ipynb); [TP4](https://github.com/gabayae/colab-notebooks-in2py/blob/main/In2Py_TP_04.ipynb).
 
 
 ### Séance 2 – Mercredi 1er Juin 2022 : 9h00 - 16h00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
@@ -58,6 +60,8 @@ Notions: [03. Objets itérables ou conteneurs](https://github.com/gabayae/colab-
 Programme :  fonctions, modules et paquets, programmation orientée objet.
 
 Notions: [05. Fonctions, Modules et Packages](https://github.com/gabayae/colab-notebooks-in2py/blob/main/05_Fonctions_Modules_et_Packages.ipynb), [06. Classes et POO](https://github.com/gabayae/colab-notebooks-in2py/blob/main/06_Classes_et_POO.ipynb).
+
+Travaux Pratiques: [TP5](https://github.com/gabayae/colab-notebooks-in2py/blob/main/In2Py_TP_05.ipynb)
 
 
 ## Évaluations
