@@ -23,7 +23,7 @@ Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de
 
 ## Cahiers virtuels de cours: les sujets que nous aborderons comprennent:
  
-  * Programmation et notions de base en Python; voir le dossier [**les_fondamentaux_du_langage_python**](https://github.com/KeuCoding/Introduction-a-la-programmation-avec-Python-In2Py/tree/main/les_fondamentaux_du_langage_python);
+  * Programmation et notions de base en Python; voir le dossier [**les_fondamentaux_du_langage_python**](https://github.com/KeuCoding/Introduction-a-la-programmation-avec-Python-In2Py/tree/main/les_fondamentaux_du_langage_python). Il contient les supports de cours ainsi que les travaux pratiques.
 
 **** 
   Nous n'aborderons pas les deux aspects ci-dessous mais vous pourrez les lire plus tard:
