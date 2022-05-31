@@ -129,4 +129,3 @@ Les ressources données ci-dessus peuvent être de très bonnes ressources et fo
 
 
 
-Les cahiers interactifs du cours Introduction à la programmation avec Python (In2Py)
