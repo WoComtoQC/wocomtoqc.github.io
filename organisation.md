@@ -16,22 +16,20 @@ You will find the virtual notebooks for this course on [**this GitHub repository
 
 ## The course will be organised as follows: 
 
-     Daily lectures: A brief summary of what went on in class and exercises related to what we did and what we will be possibly doing next time.
+  - Daily lectures: A brief summary of what went on in class and exercises related to what we did and what we will be possibly doing next time.
 
-     Homework: Contains a list of all handed-in homework problems and their due dates.
+  - Homework: Contains a list of all handed-in homework problems and their due dates.
 
-     Resources: All kinds of Sage-related resources will be placed here.
+  - Resources: All kinds of Sage-related resources will be placed here.
 
-     Restricted resources: These are some copyrighted materials we will be using for the course. Please DO NOT distribute any of them outside of AIMS South Africa.
-
-     Interact competition: See the interact competition page for more details.
+  - Interact competition: See the interact competition page for more details.
     
 
 ## Remember, this is Experimental Mathematics with Sage, so our focus will be:
 
-    First, on trying to be more experimental and inquiring about our mathematics.
+       First, on trying to be more experimental and inquiring about our mathematics.
  
-    Second, on learning to use Sage as a tool for computation and experimentation.
+       Second, on learning to use Sage as a tool for computation and experimentation.
 
 
 
