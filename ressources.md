@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Ressources
+# Resources
 
 
 
