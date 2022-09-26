@@ -5,15 +5,20 @@ layout: default
 
 # @interact_competition:
 
-
          
-                                                        Announcement of the 10th annual Sage Interact Competition                  
+  <div align="center"><h1>
+  Announcement of the 10th annual Sage Interact Competition
+  </h1></div>
+                                                                         
                                       
   
+  <div align="center"><h3>
+   Best scientific illustration making use of the Sage animation or @interact features. 
+  </h3></div>
   
 
-                                            Best scientific illustration making use of the Sage animation or @interact features.
- 
+                                           
+ ****
 
 
 Submission Deadline:  Wednesday 2nd October by 9 PM.
