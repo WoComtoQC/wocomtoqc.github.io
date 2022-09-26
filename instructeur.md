@@ -3,18 +3,18 @@ layout: default
 ---
 
 
-# À propos de moi: 
+# About me: 
  
 
 <div class='orgWrapper'>
 <img align="left" src="assets/images/Yae.jpg" alt="Yaé Ulrich Gaba" width="150">
 <div class='bioWrapper'>
-[**Yaé U. Gaba**](https://www.linkedin.com/in/gabayae): Professeur Assistant à l'[**Institut de Mathématiques et de Sciences Physiques (IMSP)**](http://imsp-benin.com/home/).
-Mes intérêts de recherche sont la Topologie Algébrique Appliquée (Analyse Topologique des Données -- [**TDA**](https://en.wikipedia.org/wiki/Topological_data_analysis)), 
-l'Apprentissage Automatique Géométrique (apprentissage de la représentation des graphes et des nuages de points). Je me concentre actuellement sur les méthodes géométriques et variationnelles dans l'analyse des données. 
-Mon travail consiste principalement à concevoir des outils issus de la géométrie, de la topologie et de l'analyse fonctionnelle utiles pour l'analyse et la visualisation des données. Mon travail consiste également à rechercher les applications de la topologie asymétrique 
-à l'analyse de la complexité des algorithmes et, dans cette ligne, je m'intéresse à développer des algorithmes pratiques d'apprentissage automatique avec des fondements théoriques rigoureux, établissant ainsi un pont entre les Mathématiques Pures et l'Informatique Théorique tout en ayant en vue
-des applications pour le vivant.
+[**Yaé U. Gaba**](https://www.linkedin.com/in/gabayae): Research Associate at [**Quantum Leap Africa (QLA)**](https://quantumleapafrica.org/).
+My research interests are Applied Algebraic Topology (Topological Data Analysis -- [**TDA**](https://en.wikipedia.org/wiki/Topological_data_analysis)),
+Geometric Machine Learning (learning the representation of graphs and point clouds). I am currently focusing on geometric and variational methods in data analysis.
+My job is mainly to design tools from geometry, topology and functional analysis useful for data analysis and visualization. My job is also to research the applications of asymmetric topology
+to the analysis of the complexity of algorithms and, in this line, I am interested in developing practical machine learning algorithms with rigorous theoretical foundations, thus establishing a bridge between Pure Mathematics and Theoretical Computer Science while having in sight
+applications for the living.
 </div>
 </div>
 
