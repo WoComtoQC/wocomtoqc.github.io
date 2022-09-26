@@ -21,8 +21,11 @@ There are three main goals for the course:
 
 | Day |         Topic   |     Slides     | Notebook  | Progress |
 |:-------------:|:----------------------:|:---------------:|:-------------------------:|:---------------------------------------------------:|
-| 07 - 12 - 2021  | **Mathematical Trees in Deep Learning** (*Solving differential equations symbolically*) | [Yaé Ulrich Gaba](https://www.linkedin.com/in/gabayae) |
-| 14 - 12 - 2021  | **Recent Methods in Graph-Based Learning** | [ Franca Hoffmann](https://francahoffmann.wordpress.com/) |
+| 17 - 10 - 2022  |  |  |  | <progress id="file" max="100" value="1"> 10% </progress>| 
+ | 18 - 10 - 2022  | |||<progress id="file" max="100" value="1"> 20% </progress>| |
+ | 19 - 10 - 2022  | |||<progress id="file" max="100" value="1"> 30% </progress>| |
+ | 20 - 10 - 2022  | |||<progress id="file" max="100" value="1"> 40% </progress>| |
+ | 21 - 10 - 2022  | |||<progress id="file" max="100" value="1"> 50% </progress>| |
 
  
 
