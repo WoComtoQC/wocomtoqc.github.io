@@ -31,7 +31,7 @@ applications for the living.
 
 
 
-## Mes partenaires et collaborateurs
+## My partners and collaborators
 
 
 
