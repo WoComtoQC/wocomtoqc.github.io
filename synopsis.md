@@ -17,6 +17,9 @@ There are three main goals for the course:
    3. Learn the basics of how to use the Sagemath software to do, compute, and explore mathematics.
 
 
+****
+ ##                                                             Daily breakdown
+****
 
 
 | Day |         Topic   |     Slides     | Notebook  | Progress |
