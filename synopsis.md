@@ -9,11 +9,12 @@ Mathematicians do not only need a pen and a piece of paper but also computer ass
 
 There are three main goals for the course:
 
-    1. Begin to think of mathematics as an experimental science.  We will use elementary number theory, Linear Algebra, Abstract Algebra and Graph Theory as our lens in our explorations.
+   1. Begin to think of mathematics as an experimental science.  
+      . We will use elementary number theory, Linear Algebra, Abstract Algebra and Graph Theory as our lens in our explorations.
 
-    2. Learn mathematical proof methods to prove some of the conjectures we will discover in 1. 
+   2. Learn mathematical proof methods to prove some of the conjectures we will discover in 1. 
 
-    3. Learn the basics of how to use the Sagemath software to do, compute, and explore mathematics.
+   3. Learn the basics of how to use the Sagemath software to do, compute, and explore mathematics.
 
  
 
