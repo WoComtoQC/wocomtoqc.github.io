@@ -18,12 +18,11 @@ This course illustrates how experiments can help mathematicians to solve mathema
 
 ## Course progress:
 
-<label for="file">File progress:</label>
+<label for="file">Progress:</label>
 
-<progress id="file" max="100" value="70"> 70% </progress>
+<progress id="file" max="100" value="1"> 1% </progress>
 
 
-<progress value="70" max="100">70 %</progress>
 
 
 ## Follow me on [**my GitHub page**](https://github.com/gabayae) <a href="https://github.com/gabayae" ><img src="assets/images/logo-github.PNG" style="float:center; max-width: 50px; display: inline" alt="gabayae_githubpage"/> </a>
