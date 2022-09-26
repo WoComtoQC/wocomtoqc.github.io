@@ -30,8 +30,8 @@ There are three main goals for the course:
 
 | Day |         Topic   |     Slides     | Notebook  | Progress |
 |:-------------:|:----------------------:|:---------------:|:-------------------------:|:---------------------------------------------------:|
-| 17 - 10 - 2022  | Introduction to SageMath |  |  [ems_2022-23_day_01_introduction_to_sagemath]()| <progress id="file" max="100" value="10"> 10% </progress>| 
- | 18 - 10 - 2022  | Short review on python programming |  | [ems_2022-23_day_02_short_review_on_python_programming]()  |<progress id="file" max="100" value="20"> 20% </progress>| |
+| 17 - 10 - 2022  | Introduction to SageMath | [day_01_slides]()  |  [day_01_notebook]()| <progress id="file" max="100" value="10"> 10% </progress>| 
+ | 18 - 10 - 2022  | Short review on python programming | [day_02_slides]() | [day_02_notebook]()  |<progress id="file" max="100" value="20"> 20% </progress>| |
  | 19 - 10 - 2022  | |    |  |<progress id="file" max="100" value="30"> 30% </progress>| |
  | 20 - 10 - 2022  | |   |   |<progress id="file" max="100" value="40"> 40% </progress>| |
  | 21 - 10 - 2022  | |   |    |<progress id="file" max="100" value="50"> 50% </progress>| |
