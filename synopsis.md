@@ -22,10 +22,10 @@ There are three main goals for the course:
 | Day |         Topic   |     Slides     | Notebook  | Progress |
 |:-------------:|:----------------------:|:---------------:|:-------------------------:|:---------------------------------------------------:|
 | 17 - 10 - 2022  |  |  |  | <progress id="file" max="100" value="10"> 10% </progress>| 
- | 18 - 10 - 2022  | |||<progress id="file" max="100" value="20"> 20% </progress>| |
- | 19 - 10 - 2022  | |||<progress id="file" max="100" value="30"> 30% </progress>| |
- | 20 - 10 - 2022  | |||<progress id="file" max="100" value="40"> 40% </progress>| |
- | 21 - 10 - 2022  | |||<progress id="file" max="100" value="50"> 50% </progress>| |
+ | 18 - 10 - 2022  | |  |   |<progress id="file" max="100" value="20"> 20% </progress>| |
+ | 19 - 10 - 2022  | |    |  |<progress id="file" max="100" value="30"> 30% </progress>| |
+ | 20 - 10 - 2022  | |   |   |<progress id="file" max="100" value="40"> 40% </progress>| |
+ | 21 - 10 - 2022  | |   |    |<progress id="file" max="100" value="50"> 50% </progress>| |
 
  
 
