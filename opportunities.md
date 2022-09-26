@@ -4,17 +4,17 @@ layout: default
 
 
 
-# Traviller avec moi.
+# Work with me.
 
-  1. Je suis toujours à la recherche d'étudiants motivé(e)s avec lesquels je pourrais travailler sur des solutions innovantes dans le domaine de la Science des Données, tant d'un point de vue 
-théorique que d'un point de vue pratique. 
+  1. I am always looking for motivated students with whom I could work on innovative solutions in the field of Data Science, both from a
+theoretical than from a practical point of view.
 
-  2. Je pourrais me rendre disponible pour des encadrements de mémoire de Licence/Master, surtout si l'étudiant(e) est intéressé(e) par des sujets à forte composante mathématique. En particulier dans le domaine 
-de l'algorithmique quand on veut voir des applications de certaines structures topologiques dans le cadre de l'analyse de complexité de certains algorithmes.
+  2. I could make myself available for Master's thesis supervision, especially if the student is interested in subjects with a strong mathematical component. In particular in the field
+algorithmics when we want to see applications of certain topological structures within the framework of the complexity analysis of certain algorithms.
 
-  3. Je suis ouvert à des échanges sur des projets potentiels qui déboucheraient sur la mise en place de start-ups.
+  3. I am also open to exchanges on potential projects that would lead to the establishment of start-ups.
 
 
-Par ailleurs, je poste régulièrement des opportunités de bourses d'études et de travail sur ce [**canal Telegram**](https://t.me/bourse_et_opportunites_d_etudes). Vous pouvez vous y abonner.
+In addition, I regularly post scholarship and work opportunities on this [**Telegram channel**](https://t.me/bourse_et_opportunites_d_etudes). You can subscribe to it.
 
 
