@@ -17,10 +17,16 @@ There are three main goals for the course:
    3. Learn the basics of how to use the Sagemath software to do, compute, and explore mathematics.
 
 
+
+
 ****
- ##                                                             Daily breakdown
+ <div align="center"><h2>
+  Daily breakdown
+  </h2></div>                                                    
+
 ****
 
+<div align="center">
 
 | Day |         Topic   |     Slides     | Notebook  | Progress |
 |:-------------:|:----------------------:|:---------------:|:-------------------------:|:---------------------------------------------------:|
@@ -30,5 +36,5 @@ There are three main goals for the course:
  | 20 - 10 - 2022  | |   |   |<progress id="file" max="100" value="40"> 40% </progress>| |
  | 21 - 10 - 2022  | |   |    |<progress id="file" max="100" value="50"> 50% </progress>| |
 
- 
+</div> 
 
