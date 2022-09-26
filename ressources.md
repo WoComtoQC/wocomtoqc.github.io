@@ -43,19 +43,19 @@ layout: default
   - Another source for guided-inquiry lecture notes that can be used for independent study is the Journal of Inquiry-Based Learning in Mathematics.
 
 ## Sage Interact Resources
-Documentation for Interacts. View.
-Somewhat dry but comprehensive documentation for making interacts in the notebook.
-Interact sharing website.  View.
-Lots of examples here, though not as active due to some spam issues.
-Sage wiki examples of interacts.  View.
-Many more examples, organized nicely by category.  Some are quite complicated!
+  - Documentation for Interacts. [View](https://doc.sagemath.org/html/en/prep/Quickstarts/Interact.html).
+    - Somewhat dry but comprehensive documentation for making interacts in the notebook.
+  - Interact sharing website.  [View](https://sagecell.sagemath.org/static/about.html?v=15adefe8b7e89fcf49eda7af5303abd4#embedding).
+    - Lots of examples here, though not as active due to some spam issues.
+  - Sage wiki examples of interacts.  [View](https://wiki.sagemath.org/interact/calculus).
+    - Many more examples, organized nicely by category.  Some are quite complicated!
 
 ## Guides to SageTex
-Brief Tutorial in SageTex. View. 
-This is a quite brief but useful tutorial showing the most basic uses of SageTeX. 
-Embedding Sage in Latex.  View. (Download below.)
-Somewhat rambling but definitely still useful Sage and SageTeX tutorial, focusing on use on the Mac.
-SageTeX installation. View. 
-This is information about making SageTeX known to your computer. Jan will have more information for you as well. 
-Official SageTeX guide.  View. (Download below.)
-This is quite nice. The source is also available in every Sage installation.
+  - Brief Tutorial in SageTex. [View](http://www.google.com/url?q=http%3A%2F%2Fwww.sagemath.org%2Fdoc%2Ftutorial%2Fsagetex.html&sa=D&sntz=1&usg=AFQjCNERxh2VncmbSWHyEv4ZF7dgmpdAnA). 
+    - This is a quite brief but useful tutorial showing the most basic uses of SageTeX. 
+  - Embedding Sage in Latex.  [View](http://www.google.com/url?q=http%3A%2F%2Fdevio.us%2F~bannon%2Fsage%2Fsagetextexshop.pdf&sa=D&sntz=1&usg=AFQjCNGVwTmsI_KB-6hwi10XjtvxcvL1KQ). 
+    - Somewhat rambling but definitely still useful Sage and SageTeX tutorial, focusing on use on the Mac.
+  - SageTeX installation. [View](http://www.google.com/url?q=http%3A%2F%2Fwww.sagemath.org%2Fdoc%2Finstallation%2Fsagetex.html&sa=D&sntz=1&usg=AFQjCNFjkNgZFwhON0rXL56F_PQo7nR-2g). 
+    - This is information about making SageTeX known to your computer. Jan will have more information for you as well. 
+  - Official SageTeX guide.  [View](https://www.google.com/url?q=https%3A%2F%2Fbitbucket.org%2Fddrake%2Fsagetex%2Fdownloads%2Fsagetex.pdf&sa=D&sntz=1&usg=AFQjCNEM4Fvg5BaNJuM4xy6fFyFTodtIKQ).
+    - This is quite nice. The source is also available in every Sage installation.
