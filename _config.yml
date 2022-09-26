@@ -6,7 +6,7 @@ navigation:
   Home: "/"
   Synopsis: "/synopsis"
   Organisation: "/organisation"
-  @Interact_Competition: "/interact"
+  Interact Competition: "/interact"
   Ressources: "/resources"
   Opportunities: "/opportunities"
   Instructor: "/instructeur"
