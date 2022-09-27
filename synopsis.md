@@ -29,7 +29,7 @@ There are three main goals for the course:
 <div align="center">
 
 | Day |         Topic    |     Slides     | Notebook  | Progress |
-|:----------------------------:|:-------------------------------------------:|:---------------:|:-------------------:|:-----------------------:|
+|:----------------------------:|:-------------------------------------------:|:---------------:|:-------------------:|:----------------:|
 | 01 | Introduction to SageMath | [day_01_slides]()  |  [day_01_notebook]()| <progress id="file" max="100" value="10"> 10% </progress>| 
  | 02  | Short review on python programming | [day_02_slides]() | [day_02_notebook]()  |<progress id="file" max="100" value="20"> 20% </progress>| |
  | 03  | |    |  |<progress id="file" max="100" value="30"> 30% </progress>| |
