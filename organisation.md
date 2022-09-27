@@ -23,13 +23,10 @@ You will find the virtual notebooks for this course on [**this GitHub repository
   - Resources: All kinds of Sage-related resources will be placed here.
 
   - Interact competition: See the interact competition page for more details.
-    
-
-## Remember, this is Experimental Mathematics with Sage, so our focus will be:
-
-       First, on trying to be more experimental and inquiring about our mathematics.
- 
-       Second, on learning to use Sage as a tool for computation and experimentation.
+   
+  - Remember, this is Experimental Mathematics with Sage, so our focus will be:
+    - First, on trying to be more experimental and inquiring about our mathematics.
+    - Second, on learning to use Sage as a tool for computation and experimentation.
 
 
 
