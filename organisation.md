@@ -20,7 +20,7 @@ You will find the virtual notebooks for this course on [**this GitHub repository
 
   - Homework: Contains a list of all handed-in homework problems and their due dates.
 
-  - Resources: All kinds of Sage-related resources will be placed here.
+  - Resources: All kinds of Sage-related resources will be placed [here](https://expemathsage.github.io/ressources).
 
   - Interact competition: See the interact competition page for more details.
    
