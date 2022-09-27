@@ -45,7 +45,7 @@ __primarily students' work__.
  - Explain it as described above in ONE text cell in the worksheet.
  - Put your name or all members of a group clearly in the explanation.
  - Call it `Your__Group_Name_Interact_Submission` (for example, `Group_1_Interact_Submission`) and download it as a Jupyter notebook.
- - Reply to the official announcement email from Evans, with the sage interact worksheet or jupyter  notebook attached. Note that all worksheet should contain the names of the group members.
+ - Reply to the official announcement email from me or the tutor, with the sage interact jupyter notebook attached. Note that all worksheet should contain the names of the group members.
  - Relax!
 
 
