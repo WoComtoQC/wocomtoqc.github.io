@@ -12,7 +12,7 @@ This course illustrates how experiments can help mathematicians to solve mathema
 
 
 
-*For this course, LIVE discussions! can be done on can be done on [**Slack**](https://join.slack.com/t/expemathsage/shared_invite/zt-1i7emlfzk-493ihFBaKQOzPlArPw~q7w). You can always join the discussion and ask your questions, even when the course is over.
+For this course, LIVE discussions! can be done on can be done on [**Slack**](https://join.slack.com/t/expemathsage/shared_invite/zt-1i7emlfzk-493ihFBaKQOzPlArPw~q7w). You can always join the discussion and ask your questions, even when the course is over.
 
 
 
