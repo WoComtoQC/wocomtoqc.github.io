@@ -13,7 +13,7 @@ layout: default
 
 # How to participate
 
-- Visit the [registration page of the workshop]()
+- Visit the [registration page of the workshop](https://forms.office.com/pages/responsepage.aspx?id=6IW_BWzwEUe-0OVajAezTLde7uP09t1OvWn4hSgwq89UQ0g3TlE0S1VSWjNPTkxVRzU4VkNEMEk2MC4u)
   to chat with attendees and poster presenters. Check the [schedule](/schedule) to ensure that an author is available to answer your questions *live*.
 - Join our Slack workspace [WoComToQC]() for more information about the workshop.  Use the channel `...` to communicate with the attendees, panellists, and
   organisers.
