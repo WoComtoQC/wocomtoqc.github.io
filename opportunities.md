@@ -18,3 +18,4 @@ algorithmics when we want to see applications of certain topological structures 
 In addition, we regularly post scholarship and work opportunities on this [**Telegram channel**](https://t.me/bourse_et_opportunites_d_etudes). You can subscribe to it.
 
 
+You can also check this [data science and big data analytics](https://quantumleapafrica.org/re_unit/data-science-and-big-data-analytics/) page to see what we do at QLA.
