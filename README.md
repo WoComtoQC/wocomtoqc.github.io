@@ -1,7 +1,7 @@
-# Experimental Mathematics with SageMath website.
+# Workshop on Computational Topology & Quantum Computing website.
 
 
-
+This is the repository for the web page of our WoComToQC 2023 workshop on topological data analysis and quantum computing. Please visit wocomtoqc.github.io for more information.
 
 
 
