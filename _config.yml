@@ -4,15 +4,12 @@ description:  WoComToQC
 
 navigation:
   Home: "/"
-  Synopsis: "/synopsis"
-  Organisation: "/organisation"
-  Interact Competition: "/interact"
-  Resources: "/ressources"
-  Opportunities: "/opportunities"
-  Instructor: "/instructeur"
-  
-
-  
+  Schedule: "/schedule"
+  Speakers: "/speakers"
+  Organisers: "/organisers"
+  Programme Committee: "/committee"
+  FAQ: "/faq"
+ 
   
 
 
