@@ -4,7 +4,7 @@ layout: default
 
 
 
-# Work with me.
+# Work with us.
 
   1. We are always looking for motivated students with whom I could work on innovative solutions in the field of Data Science, both from a
 theoretical than from a practical point of view.
