@@ -17,15 +17,4 @@ these times to your local time zone.
 |  16:30 -17:00   |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
 
 
-
-|  Time CET| Time EST   |  Monday | Tuesday  | Wednesday | Thursday | Friday |
-|----------|:----------:|--------:|:--------:|:---------:|:--------:|:------:|
- |   |   02:00-03:30       | Intro Lecture   | Keynote Talk    | Keynote Talk    | Keynote Talk   | Keynote Talk | 
-|  | 03:30-04:00           |    B     | R    | E     | A    | K  |
- |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
- |  |  |   B     | R    | E     | A    | K  |
- |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
-|  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
- |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
-|  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
     
