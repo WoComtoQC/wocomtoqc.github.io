@@ -7,12 +7,12 @@ these times to your local time zone.
 
 | Time CAT |  Time CET| Time EST   |  Monday | Tuesday  | Wednesday | Thursday | Friday |
 |----------|----------|:----------:|--------:|:--------:|:---------:|:--------:|:------:|
-| 09:00-10:30        |   |         | Intro Lecture   | Keynote Talk    | Keynote Talk    | Keynote Talk   | Keynote Talk | 
-|  10:30-11:00        |          |            |    B     | R    | E     | A    | K  |
-|  11:00 -12:30        |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
-|   12:30-14:00       |  |  |   B     | R    | E     | A    | K  |
-|  14:00 -14:30        |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
-|  14:30 -15:00        |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
-|  15:30 -16:00        |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
-|  16:30 -17:00        |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
+| 09:00-10:30    |   |   02:00-03:30       | Intro Lecture   | Keynote Talk    | Keynote Talk    | Keynote Talk   | Keynote Talk | 
+|  10:30-11:00   |  | 03:30-04:00           |    B     | R    | E     | A    | K  |
+|  11:00 -12:30   |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
+|   12:30-14:00   |  |  |   B     | R    | E     | A    | K  |
+|  14:00 -14:30   |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
+|  14:30 -15:00   |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
+|  15:30 -16:00   |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
+|  16:30 -17:00   |  | |  Keynote Talk | Keynote Talk | Keynote Talk |Keynote Talk | Keynote Talk |
     
