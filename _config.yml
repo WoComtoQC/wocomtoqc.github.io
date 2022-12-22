@@ -4,6 +4,7 @@ description:  WoComToQC
 
 navigation:
   Home: "/"
+  Background: "/background"
   Schedule: "/schedule"
   Speakers: "/speakers"
   Organisers: "/organisers"
