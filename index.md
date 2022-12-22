@@ -14,9 +14,12 @@ layout: default
 | **Format** | Hybrid – Online & In-person
 | **Location** | The workshop will be *hybrid*, both virtually and in person in QLA Training room in [Kigali](https://goo.gl/maps/V3sVz7VZiTpwLrPW9), Rwanda. |
 
+ 
  `Target audience` : Masters, interested PhD's and young researchers, AIMS students.
  
+ 
  ### Preference : 
+ 
    1. Computational skills: Background that includes some (beginners' level) Python/R; Rudimentary knowledge of programming in Python.    
    2. (undergraduate) Mathematics/Physics background; An undergraduate course in topology (e.g. chapter 1-3 of `J.R. Munkres: Topology` should be familiar). The student should be familiar with the construction of free vector spaces and quotient vector spaces, representation of linear maps by matrices, and matrix operations such as multiplication and row/column operations. We will mostly be concerned with finite-dimensional vector spaces over the field of two elements (and occasionally other prime fields).
 
