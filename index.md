@@ -31,7 +31,7 @@ layout: default
 
 # How to participate
 
-- Visit the [registration page of the workshop](https://forms.office.com/pages/responsepage.aspx?id=6IW_BWzwEUe-0OVajAezTLde7uP09t1OvWn4hSgwq89UQ0g3TlE0S1VSWjNPTkxVRzU4VkNEMEk2MC4u)
+- Visit the [registration page of the workshop](https://forms.office.com/pages/responsepage.aspx?id=6IW_BWzwEUe-0OVajAezTLde7uP09t1OvWn4hSgwq89UQ0g3TlE0S1VSWjNPTkxVRzU4VkNEMEk2MC4u) or the [QLA page for the event](https://quantumleapafrica.org/event/computational-topology-quantum-computing/).
 
 - Join our Slack workspace [WoComToQC-Slack](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1m9fmhp82-rrOnfEMqyc3tA0O0bBPGvg) for more information about the workshop.  Use the channel [`#general`](https://app.slack.com/client/T04H08KM0MP/C04HBADVDDE/thread/C04H1C2JKRP-1672091489.278389) to communicate with the attendees, and organisers. Remember that the workshop onference will be held in both virtual and in-person mode. 
 
