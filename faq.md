@@ -18,7 +18,7 @@ Although the event is open to anyone willing to attend, the target audience for 
 3. Tell your friends about the [**workshop**](https://wocomtoqc.github.io/).
 4. If you not sure about what you know in Python, go through [**this article**](https://mlbookcamp.com/article/python)
 5. You will also get an overview of [**Topology (Wikipedia)**](https://en.wikipedia.org/wiki/Topology), its branches. A sound introduction to Topology is [`A First Course in Topology`](https://www.amazon.com/dp/0821838849) by J. McCleary.
-6. [**Here**](https://github.com/JohnCoogan/learnquantum) is a GitHub repository for resources in Quantum Computing.
+6. [**Here**](https://github.com/JohnCoogan/learnquantum) is a GitHub repository for resources in [**Quantum Computing (Wikipedia)**](https://en.wikipedia.org/wiki/Quantum_computing).
 7. Check [**FAQ**](https://wocomtoqc.github.io/faq) for the list of frequently asked questions.
 
  
