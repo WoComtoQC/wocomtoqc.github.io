@@ -21,7 +21,7 @@ layout: default
 
 1. [**Isambi Sailon Mbalawata**]()
 
-2. [*Molly Mutesi*](https://www.linkedin.com/in/molly-mutesi-pmp%C2%AE-636733163/) 
+2. [**Molly Mutesi**](https://www.linkedin.com/in/molly-mutesi-pmp%C2%AE-636733163/) 
 
 3. [**Yves Bonheur Mugiraneza**](https://www.linkedin.com/in/yves-bonheur-mugiraneza-a69a7597/)
 
