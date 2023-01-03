@@ -35,7 +35,7 @@ layout: default
 
 - Join our Slack workspace [**WoComToQC-Slack**](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1m9fmhp82-rrOnfEMqyc3tA0O0bBPGvg) for more information about the workshop.  Use the channel [`#general`](https://app.slack.com/client/T04H08KM0MP/C04HBADVDDE/thread/C04H1C2JKRP-1672091489.278389) to communicate with the attendees, and organisers. Remember that the workshop onference will be held in both virtual and in-person mode. 
 
-- QLA has some limited funding for supporting postgrads and early career researchers to attend the workshop in person in Kigali. Make sure to apply by the 10th January if you would lke to be considered for such. Please note that funding is not guaranteed. However, on can attend the event online, free of charge.
+- QLA has some limited funding for supporting postgrads and early career researchers, not living in Rwanda, to attend the workshop in person in Kigali. Make sure to apply by the 10th January if you would lke to be considered for such. Please note that funding is not guaranteed. However, on can attend the event online, free of charge.
 
 
 
