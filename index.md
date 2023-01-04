@@ -3,7 +3,7 @@ layout: default
 ---
 
 
- `Quantum Computing and Topological Data Analysis for beginners`
+ `Topological Data Analysis and Quantum Computing for beginners`
 
 
 ### Overview : 
