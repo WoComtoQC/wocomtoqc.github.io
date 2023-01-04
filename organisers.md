@@ -17,7 +17,7 @@ layout: default
 
 ### Local Organizing Committee
 
-1. [**Isambi Sailon Mbalawata**]()
+1. [**Isambi S. Mbalawata**]()
 2. [**Molly Mutesi**](https://www.linkedin.com/in/molly-mutesi-pmp%C2%AE-636733163/) 
-3. [**Yves Bonheur Mugiraneza**](https://www.linkedin.com/in/yves-bonheur-mugiraneza-a69a7597/)
+3. [**Yves B. Mugiraneza**](https://www.linkedin.com/in/yves-bonheur-mugiraneza-a69a7597/)
 4. [**Alison Karungi**](https://www.linkedin.com/in/alison-karungi-6b78b5218/)
