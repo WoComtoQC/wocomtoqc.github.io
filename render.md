@@ -20,3 +20,6 @@ Also see [here](https://github.com/tda-in-ml/tda-in-ml.github.io/blob/master/LIC
 
 
 ### Organization
+
+Although they are in the [`Scientific Committee`](https://wocomtoqc.github.io/organisers), we would like to address pecial thanks to [**Ehsan Shams**](https://www.linkedin.com/in/ehsan-shams-6a2852191/)
+and [**Diaaeldin Taha**](https://www.linkedin.com/in/diaaeldin-taha-23a51b16/) for their generous support regarding the invitation of guest speakers to the workshop, and to their strong contribution towards the event schedule. Your effort should not go unnoticed and the valuable time you put in this was really appreciated.
