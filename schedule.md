@@ -1,6 +1,6 @@
 # Schedule
 
-For a preliminary schedule of the workshop, [check here](https://github.com/WoComtoQC/wocomtoqc.github.io/blob/main/timetable.md). 
+For a preliminary schedule of the workshop, [**check here**](https://github.com/WoComtoQC/wocomtoqc.github.io/blob/main/timetable.md). 
 
 
 Subscribe to the [**public workshop Google calendar**](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHVyZ3QxaWJuNHBzNmxvbWE1dW4yZGs3YmFfMjAyMzAyMDZUMDcwMDAwWiB5YWV1bHJpY2guZ2FiYUBt&tmsrc=yaeulrich.gaba%40gmail.com&scp=ALL) 
