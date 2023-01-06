@@ -1,11 +1,5 @@
----
-layout: default
----
 
 
-
-
-# Abstracts
 
 
     
