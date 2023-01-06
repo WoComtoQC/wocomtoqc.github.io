@@ -8,6 +8,7 @@ navigation:
   Schedule: "/schedule"
   Speakers: "/speakers"
   Organisers: "/organisers"
+  Abstracts: "/abstracts"
   Render unto Ceasar: "/render"
   FAQ: "/faq"
  
