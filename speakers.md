@@ -15,7 +15,7 @@ layout: default
 6.  [**Elizabeth Munch**](http://www.elizabethmunch.com/) (Michigan State University, USA)
 7.  [**Jose Perea**](https://www.joperea.com/) (Northeastern University, USA)
 8.  [**Bastian Rieck**](https://bastian.rieck.me/) (AIDOS Lab, Germany)
-9.  [**Ahmed Younes**](https://www.linkedin.com/in/ahmed-younes-18910592/)(Alexandria University, Egypt)
+9.  [**Ahmed Younes**](https://www.linkedin.com/in/ahmed-younes-18910592/) (Alexandria University, Egypt)
 
 
 
