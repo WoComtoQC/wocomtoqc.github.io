@@ -14,6 +14,14 @@ layout: default
 5. [**Diaaeldin Taha**](https://www.linkedin.com/in/diaaeldin-taha-23a51b16/)
 
 
+### Teaching Assistants
+
+1.  [**Péguy T. Kadzue**](https://www.linkedin.com/in/p%C3%A9guy-kem-meka-tiotsop-kadzue-045a5a17a/)
+2.  [**Aurélie J. Kemme**](https://www.linkedin.com/in/aur%C3%A9lie-jodelle-kemme-5a0754119/)
+3. [**Domini J. Leko**](https://www.linkedin.com/in/domini-jocema-leko-moutouo-644b5799/)
+4. [**Nelie L. Makenne**](https://www.linkedin.com/in/nelie-laura-makenne-66887215b/) 
+
+
 
 ### Local Organizing Committee
 
