@@ -14,10 +14,11 @@ in [Central Africaan Time (CAT)](https://en.wikipedia.org/wiki/Central_Africa_Ti
 these times to your local time zone.
 
 
+<html>
+  <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Africa%2FJohannesburg&src=NGU2ZGZjYjVmZjkyNjMyODg2NWQ0MDUxNGVjMTgyZTE3ODljMzdmYjAyM2JmYjQ1Njg5ZjUzMzdhNzFkNDg3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</html>
 
 
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Africa%2FJohannesburg&src=NGU2ZGZjYjVmZjkyNjMyODg2NWQ0MDUxNGVjMTgyZTE3ODljMzdmYjAyM2JmYjQ1Njg5ZjUzMzdhNzFkNDg3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
