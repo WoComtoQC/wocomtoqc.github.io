@@ -11,6 +11,8 @@ Yes. Registration can be found [**here**](https://forms.office.com/pages/respons
 Although the event is open to anyone willing to attend, the target audience for this workshop are STEM student,  at the levels of `Masters`, but also interested PhD's and young researchers, and of course [**AIMS students**](https://aims.ac.za/). As prerequisites, we shal leverage on Computational skills: Background that includes some (beginners' level) Python/R; Rudimentary knowledge of programming in Python. It is not required but would be an advantage if one followed an undergraduate course in topology (e.g. chapter 1-3 of `J.R. Munkres: Topology`). Ideally, the student should be familiar with the construction of free vector spaces and quotient vector spaces, representation of linear maps by matrices, and matrix operations such as multiplication and row/column operations. We will mostly be concerned with finite-dimensional vector spaces over the field of two elements (and occasionally other prime fields).
 
 
+### I have not registered, can I still attend?
+Yes, you can still attend even though registration is closed. [**Here is the link to our Slack**](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1m9fmhp82-rrOnfEMqyc3tA0O0bBPGvg). We'll post a link to join the sessions via Zoom even if you aren't able to register! Feel free to reach out to [**Colleen**](https://www.linkedin.com/in/colleenmfarrelly/) or [**Yaé**](https://www.linkedin.com/in/gabayae/), should experience any problem.
 
 
 ### A few other things:
