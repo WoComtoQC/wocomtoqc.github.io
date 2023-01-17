@@ -12,9 +12,10 @@ Although the event is open to anyone willing to attend, the target audience for 
 
 
 
+
 ### A few other things:
 1. Star the [**workshop repository on GitHub**](https://github.com/WoComtoQC/wocomtoqc.github.io) as well as the [**original website template repository**](https://github.com/tda-in-ml/tda-in-ml.github.io).
-2. Subscribe to the [**public workshop Google calendar**](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHVyZ3QxaWJuNHBzNmxvbWE1dW4yZGs3YmFfMjAyMzAyMDZUMDcwMDAwWiB5YWV1bHJpY2guZ2FiYUBt&tmsrc=yaeulrich.gaba%40gmail.com&scp=ALL) <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHVyZ3QxaWJuNHBzNmxvbWE1dW4yZGs3YmFfMjAyMzAyMDZUMDcwMDAwWiB5YWV1bHJpY2guZ2FiYUBt&amp;tmsrc=yaeulrich.gaba%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a> .
+2. Subscribe to the [**public workshop Google calendar**](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHVyZ3QxaWJuNHBzNmxvbWE1dW4yZGs3YmFfMjAyMzAyMDZUMDcwMDAwWiA0ZTZkZmNiNWZmOTI2MzI4ODY1ZDQwNTE0ZWMxODJlMTc4OWMzN2ZiMDIzYmZiNDU2ODlmNTMzN2E3MWQ0ODdkQGc&tmsrc=4e6dfcb5ff926328865d40514ec182e1789c37fb023bfb45689f5337a71d487d%40group.calendar.google.com&scp=ALL) <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHVyZ3QxaWJuNHBzNmxvbWE1dW4yZGs3YmFfMjAyMzAyMDZUMDcwMDAwWiA0ZTZkZmNiNWZmOTI2MzI4ODY1ZDQwNTE0ZWMxODJlMTc4OWMzN2ZiMDIzYmZiNDU2ODlmNTMzN2E3MWQ0ODdkQGc&amp;tmsrc=4e6dfcb5ff926328865d40514ec182e1789c37fb023bfb45689f5337a71d487d%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>.
 3. Tell your friends about the [**workshop**](https://wocomtoqc.github.io/).
 4. If you are not sure about what you know in Python, go through [**this article**](https://mlbookcamp.com/article/python).
 5. You will also get an overview of [**Topology (Wikipedia)**](https://en.wikipedia.org/wiki/Topology), its branches. A sound introduction to Topology is [`A First Course in Topology`](https://www.amazon.com/dp/0821838849) by J. McCleary.
