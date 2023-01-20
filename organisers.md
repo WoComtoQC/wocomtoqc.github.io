@@ -9,7 +9,7 @@ layout: default
 
 1.  [**Colleen Farrelly**](https://www.linkedin.com/in/colleenmfarrelly/)
 2. [**Yaé U. Gaba**](https://www.linkedin.com/in/gabayae/) 
-3. [**Abdulmajid Osumanu**]()
+3. [**Abdulmajid Osumanu**](https://www.linkedin.com/in/aosumanu/)
 4. [**Ehsan Shams**](https://www.linkedin.com/in/ehsan-shams-6a2852191/)
 5. [**Diaaeldin Taha**](https://www.linkedin.com/in/diaaeldin-taha-23a51b16/)
 
