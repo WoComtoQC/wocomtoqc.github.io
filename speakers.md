@@ -20,7 +20,8 @@ layout: default
 11.  [**Bastian Rieck**](https://bastian.rieck.me/) (AIDOS Lab, Germany)
 12.  [**Vanessa Robins**](https://physics.anu.edu.au/contact/people/profile.php?ID=75)   (The Australian National University, Australia)
 13.  [**Carlo Maria Scandolo**](https://contacts.ucalgary.ca/info/math/profiles/1-9063259) (University of Calgary, Canada)
-14.  [**Ahmed Younes**](https://www.linkedin.com/in/ahmed-younes-18910592/) (Alexandria University, Egypt)
+14.  [**Wolfgang Scherer**](https://uk.linkedin.com/in/wolfgang-scherer-23200935)
+15.  [**Ahmed Younes**](https://www.linkedin.com/in/ahmed-younes-18910592/) (Alexandria University, Egypt)
 
 
 
