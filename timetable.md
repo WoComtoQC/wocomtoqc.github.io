@@ -98,11 +98,7 @@ these times to your local time zone.
 &NewLine;
 
 
-### 
 
-<div align="center">
-   Quantum Computing session
-</div>
 
 
 
