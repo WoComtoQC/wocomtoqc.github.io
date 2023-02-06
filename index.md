@@ -39,8 +39,8 @@ layout: default
 - QLA has some limited funding for supporting postgrads and early career researchers, not living in Rwanda, to attend the workshop in person in Kigali. Make sure to apply by the 10th January if you would lke to be considered for such. Please note that funding is not guaranteed. However, on can attend the event online, free of charge.
 
 - For the people joining online, these are the Zoom meting details:
-  - Join Zoom Meeting
-    https://us06web.zoom.us/j/82554992803?pwd=VjdyR3ZJRERZbS9ROTVBUkVieU9rZz09
+  - [**Join Zoom Meeting**](https://us06web.zoom.us/j/82554992803?pwd=VjdyR3ZJRERZbS9ROTVBUkVieU9rZz09)
+    
    
   - `Meeting ID: 825 5499 2803`
 
