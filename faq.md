@@ -7,7 +7,7 @@ layout: default
 ### Do I have to be registered for the main conference to participate at the workshop?
 Yes. Registration can be found [**here**](https://forms.office.com/pages/responsepage.aspx?id=6IW_BWzwEUe-0OVajAezTLde7uP09t1OvWn4hSgwq89UQ0g3TlE0S1VSWjNPTkxVRzU4VkNEMEk2MC4u). Once you have registered, join [**our slack**](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1m9fmhp82-rrOnfEMqyc3tA0O0bBPGvg).
 
-| **Deadline**    | *Initially* ~~10th January 2023~~, Extended **5th February 2023** (23:59 AoE)|
+| **Deadline**    | *Initially* ~~10th January 2023~~, Extended **6th February 2023** (23:59 AoE)|
 
 
 
