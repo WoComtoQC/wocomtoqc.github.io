@@ -13,14 +13,7 @@ layout: default
 | **Duration/Date** | Five-day workshop from the 6th February to 10th February 2023 |
 | **Format** | Hybrid – Online & In-person
 | **Location** | The workshop will be **hybrid**, both virtually and in person in QLA Training room in [**Kigali**](https://goo.gl/maps/V3sVz7VZiTpwLrPW9), Rwanda. In person attendance is subject to venue capcity and will be done on a first come, first served basis. |
-| **Zoom meeting details** |For the people joining online, these are the Zoom meting details:
-Join Zoom Meeting
-https://us06web.zoom.us/j/82554992803?pwd=VjdyR3ZJRERZbS9ROTVBUkVieU9rZz09
 
-Meeting ID: 825 5499 2803
-
-Passcode: 062641
-|
 
  
  `Target audience` : Masters, interested PhD's and young researchers, AIMS students. 
@@ -44,6 +37,14 @@ Passcode: 062641
 - Join our Slack workspace [**WoComToQC-Slack**](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1m9fmhp82-rrOnfEMqyc3tA0O0bBPGvg) for more information about the workshop.  Use the channel [`#general`](https://app.slack.com/client/T04H08KM0MP/C04HBADVDDE/thread/C04H1C2JKRP-1672091489.278389) to communicate with the attendees, and organisers. Remember that the workshop onference will be held in both virtual and in-person mode. 
 
 - QLA has some limited funding for supporting postgrads and early career researchers, not living in Rwanda, to attend the workshop in person in Kigali. Make sure to apply by the 10th January if you would lke to be considered for such. Please note that funding is not guaranteed. However, on can attend the event online, free of charge.
+
+- For the people joining online, these are the Zoom meting details:
+  - Join Zoom Meeting
+    https://us06web.zoom.us/j/82554992803?pwd=VjdyR3ZJRERZbS9ROTVBUkVieU9rZz09
+   
+  - `Meeting ID: 825 5499 2803`
+
+  - `Passcode: 062641`
 
 
 
