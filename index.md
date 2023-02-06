@@ -13,6 +13,14 @@ layout: default
 | **Duration/Date** | Five-day workshop from the 6th February to 10th February 2023 |
 | **Format** | Hybrid – Online & In-person
 | **Location** | The workshop will be **hybrid**, both virtually and in person in QLA Training room in [**Kigali**](https://goo.gl/maps/V3sVz7VZiTpwLrPW9), Rwanda. In person attendance is subject to venue capcity and will be done on a first come, first served basis. |
+| **Zoom meeting details** |For the people joining online, these are the Zoom meting details:
+Join Zoom Meeting
+https://us06web.zoom.us/j/82554992803?pwd=VjdyR3ZJRERZbS9ROTVBUkVieU9rZz09
+
+Meeting ID: 825 5499 2803
+
+Passcode: 062641
+|
 
  
  `Target audience` : Masters, interested PhD's and young researchers, AIMS students. 
