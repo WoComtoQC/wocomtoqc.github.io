@@ -19,6 +19,10 @@ Although the event is open to anyone willing to attend, the target audience for 
 Yes, you can still attend even though registration is closed. [**Here is the link to our Slack**](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1m9fmhp82-rrOnfEMqyc3tA0O0bBPGvg). We'll post a link to join the sessions via Zoom even if you aren't able to register! Feel free to reach out to [**Colleen**](https://www.linkedin.com/in/colleenmfarrelly/) or [**Yaé**](https://www.linkedin.com/in/gabayae/), should you experience any problem.
 
 
+### Where do I get the notebooks for the practical?
+The notebooks for the practicl part can be viewed [**here**](https://github.com/nelie-laura/WoComToQC-Practical-Session-Introduction-to-python).
+
+
 ### A few other things:
 1. Star the [**workshop repository on GitHub**](https://github.com/WoComtoQC/wocomtoqc.github.io) as well as the [**original website template repository**](https://github.com/tda-in-ml/tda-in-ml.github.io).
 2. Subscribe to the [**public workshop Google calendar**](https://calendar.google.com/calendar/u/0?cid=NGU2ZGZjYjVmZjkyNjMyODg2NWQ0MDUxNGVjMTgyZTE3ODljMzdmYjAyM2JmYjQ1Njg5ZjUzMzdhNzFkNDg3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) <a target="_blank" href="https://calendar.google.com/calendar/u/0?cid=NGU2ZGZjYjVmZjkyNjMyODg2NWQ0MDUxNGVjMTgyZTE3ODljMzdmYjAyM2JmYjQ1Njg5ZjUzMzdhNzFkNDg3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>.
