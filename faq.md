@@ -20,7 +20,7 @@ Yes, you can still attend even though registration is closed. [**Here is the lin
 
 
 ### Where do I get the notebooks for the practical?
-The notebooks for the practicl part can be viewed [**here**](https://github.com/nelie-laura/WoComToQC-Practical-Session-Introduction-to-python).
+The notebooks for the practicl part can be viewed [**here**](https://github.com/nelie-laura/WoComToQC-Practical-Session-Introduction-to-python/blob/main/README.md).
 
 
 ### A few other things:
