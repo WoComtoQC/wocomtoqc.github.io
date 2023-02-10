@@ -16,7 +16,7 @@ Although the event is open to anyone willing to attend, the target audience for 
 
 
 ### I have not registered, can I still attend?
-Yes, you can still attend even though registration is closed. [**Here is the link to our Slack**](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1m9fmhp82-rrOnfEMqyc3tA0O0bBPGvg). We'll post a link to join the sessions via Zoom even if you aren't able to register! Feel free to reach out to [**Colleen**](https://www.linkedin.com/in/colleenmfarrelly/) or [**Yaé**](https://www.linkedin.com/in/gabayae/), should you experience any problem.
+Yes, you can still attend even though registration is closed. [**Here is the link to our Slack**](https://join.slack.com/t/wocomtoqc/shared_invite/zt-1ot73wri9-9K42GMIknFyp2xxvQM7bBg). We'll post a link to join the sessions via Zoom even if you aren't able to register! Feel free to reach out to [**Colleen**](https://www.linkedin.com/in/colleenmfarrelly/) or [**Yaé**](https://www.linkedin.com/in/gabayae/), should you experience any problem.
 
 
 ### Where do I get the notebooks for the practical?
